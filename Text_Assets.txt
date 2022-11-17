@@ -1,0 +1,26 @@
+//In here includes all the text used for our website preview. 
+//For ease of access, you can copy and paste everything below.
+
+
+
+President: Aaron Jarnes  atjarnes@NIC.EDU | Advisor: Ekaterina Miller  evmiller@NIC.EDU
+
+
+About Us:
+We are the Computer Science club. We strive to give our resources to students who are in need of tutoring help. Anyone is welcome to join and learn with us.
+
+
+CSC Meeting Times
+Where: Hedlund Building, Classroom HED-233
+When: Tuesdays @ 2pm | Thursdays @ 12pm
+
+
+Need Tutoring?
+Our student staff is ready to help and teach you in a way that you learn the material, and understand why it works. Free tutoring anytime during club hours. If you need more help, check out our Discord below.
+
+
+Anyone Can Join Today
+
+
+What is Discord? It is an easy way to text and call your friends 1 on 1 or in a group. Most of our group projects are done here and Discord uses its own syntax to bring the characters on the screen to life. And with servers, you can have multiple chats and calls going on. Join our server today to get tutoring instantly from any of our staff.
+Discord Link (please put this link inside the text: https://discord.gg/A7Av5CyVyw)
