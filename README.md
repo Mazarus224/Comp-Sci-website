@@ -4,7 +4,7 @@ This is a mock up website for our NIC's official club website.
 This is to help the developers making the club websites have an easier time implimenting the things we want on our page. 
 
 This is our first iteration of the website, created using PicMonkey.com which is like Adobe Photoshop. 
-![Club Website](CompSci_Website.png)
+![Club Website](pic/CompSci_Website.png)
 
 ### What We Want:  
 * The web preview defines the boundries we want
